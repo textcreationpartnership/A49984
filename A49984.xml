@@ -1,0 +1,649 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of the Right Honourable the Earl of Danby, to a late pamphlet entituled, An examination of the impartial state of the case of the Earl of Danby</title>
+            <author>Leeds, Thomas Osborne, Duke of, 1631-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49984</idno>
+            <idno type="STC">Wing L920</idno>
+            <idno type="STC">ESTC R12398</idno>
+            <idno type="EEBO-CITATION">12931597</idno>
+            <idno type="OCLC">ocm 12931597</idno>
+            <idno type="VID">95690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 387:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of the Right Honourable the Earl of Danby, to a late pamphlet entituled, An examination of the impartial state of the case of the Earl of Danby</title>
+                  <author>Leeds, Thomas Osborne, Duke of, 1631-1712.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.R. to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Examination of the impartial state of the Earl of Danby.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95690:1" rendition="simple:additions"/>
+            <p>THE ANSVVER OF THE Right Honourable THE EARL of DANBY TO A LATE PAMPHLET, Entituled, <hi>An EXAMINATION of the IMPARTIAL STATE of the Caſe of the Earl of</hi> Danby.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. R.</hi> to be ſold by <hi>Randal Taylor</hi> near Stationers Hall, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95690:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:95690:2" rendition="simple:additions"/>
+            <head>THE Earl of Danby's ANSWER, &amp;c.</head>
+            <p>I Have lately ſeen a Pamphlet called <hi>An Examination of the Impartial State of the Caſe of the Earl of</hi> Danby; and pretended to be an An<g ref="char:EOLhyphen"/>ſwer to <hi>that State;</hi> but inſtead of being ſo, I find it (as I believe was the whole intent of the Author) to be only a ſcurrilous Libel againſt the Earl of <hi>Danby,</hi> every Page of it having ſomething of that Nature in it.</p>
+            <p>I cannot learn certainly who is the Author, although he ſays he has been very converſant in my Affairs, and pretends to be furniſht with more particular knowledge of them than other Men; but I believe, that is but a pretence for the more ſpecious wounding of me, becauſe it is too Knaviſh a part for any body who was a Servant or Officer under me to do, for his own ſake, had the ſubject matter of it been true; but I find it to be ſo generally falſe, that it is impoſſible for any that rela<g ref="char:EOLhyphen"/>ted to the Exchequer or Treaſury to be ſo ignorant of the matters of Fact; beſides, to have told ſo many untruths knowingly, and under Colour to do his King and Country ſervice, is an Action too black to believe of any Man; although I muſt confeſs, I know not how far ſuch a Man may go, as abandons all the Rules of Honour and Generoſity, in ſpeaking of one under Reſtraint, things that he knows ought not to be ſaid of any Gentleman.</p>
+            <p>He is ſo ſenſible of this fault himſelf, that he thought it needed an Apology, but is able to make no better an one for it, than by another un<g ref="char:EOLhyphen"/>truth; which is, that he ſays it is charged upon <hi>every body</hi> by the Author of the <hi>State</hi> of my Caſe, <hi>that Malice may have too great a ſhare in the Proſecution of me:</hi> Whereas the Expreſſion in that Book, is in the begin<g ref="char:EOLhyphen"/>ning of the Book, and ſpeaks only <hi>of the Cauſe which makes ſome men ſuſpect whether malice may not have too great a ſhare,</hi> &amp;c. So ill has that Reaſon ſupported him againſt the want of Generoſity; which otherwiſe he confeſſes himſelf he might juſtly be cenſured for.</p>
+            <p>Though he hath ſhewed himſelf a very mean Enemy, yet he has been ſo favourable to me through his whole Book, that moſt of his Reaſons and Inferences have been ſuitable to this beginning, and I intend not to trouble my ſelf with repeating or anſwering them, nor with his frequent Contradictions of himſelf, but ſhall barely inform the truth of thoſe matters of Fact, which the Author has falſly related; having no deſign but to Vindicate my ſelf from all Aſperſions, of having done any thing knowingly to the prejudice either of my King or Country.</p>
+            <p>The Examiner has purſued no Method, and therefore I muſt be excu<g ref="char:EOLhyphen"/>ſed to take the matters of Fact confuſedly, and to Anſwer them in the ſame order as they ſtand in his Paper.</p>
+            <p>
+               <pb n="2" facs="tcp:95690:3"/>In the firſt place: Page the 3; he charges me with <hi>having applied two thouſand ſeven hundred ſeven pounds five ſhillings and eleven pence, to my own uſe; and to have been ſhort ſo much in my Account of the Navy,</hi> which is very falſe, for the Money was remaining in my Hands, and al<g ref="char:EOLhyphen"/>ways owned by me to be ſo; but it is true, that his Majeſty, at my leaving the place of Treaſurer of the Navy, was pleaſed to re<g ref="char:EOLhyphen"/>mit me that Sum on the Ballance of my Account; and I hope his Ma<g ref="char:EOLhyphen"/>jeſty is beſt Judge whether my Service in that Station deſerved ſuch a re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>The next matter of Fact mentioned, as to Money, is the 18 Months Tax. (For I ſhall take notice of his Suggeſtions upon that and other things, when the Facts are cleared.) This was payable in ſix Quarters, <hi>viz.</hi> third of <hi>June,</hi> 73. third of <hi>September,</hi> 73. third of <hi>December,</hi> 73. third of <hi>March,</hi> 73. third of <hi>June,</hi> 74. third of <hi>September,</hi> 74. And I entred to the Treaſury the 19th of <hi>June,</hi> 73. ſo that I received all that came in of that Tax, ſaving what was paid between the 3d, and 19th of <hi>June,</hi> 73. Inſomuch that the Examiner in that particular is ſo near ſpeaking true, that the whole ſix Quarters were paid in my time; but beſides the firſt three Quarters, which the Examiner confeſſes were Aſſigned by my Lord <hi>Clifford,</hi> there was alſo twenty one thouſand, one hundred ſixty three pound, ſix ſhillings and eight pence, charged by his Lordſhip on the fourth Quarter of that Tax; and if the Examiner were as knowing as he pretends to be in the <hi>Exchequer,</hi> he muſt know that the laſt three Quarters of that Tax brought clear into the <hi>Exchequer,</hi> only the Sum of five hundred ſixty five thouſand, four hundred ninety eight pounds, thirteen ſhillings and ten pence half penny: after all Charges deducted: out of which Sum is likewiſe to be taken the afore<g ref="char:EOLhyphen"/>ſaid Sum of twenty one thouſand one hundred ſixty three pound, ſix ſhil<g ref="char:EOLhyphen"/>lings and eight pence.</p>
+            <p>When he comes to what the King loſt in his Cuſtoms by the Corn-Act, and the Act for prohibiting <hi>French</hi> Commodities; he anſwers that, <hi>by calling them ſlight particulars,</hi> although one of them was above ſixty thouſand pound a year, and the other eſtimated to me by the Commiſſioners of the Cuſtomes at one hundred and fifty thouſand pound a year; and herein he Arraigns his own skill, as much as he undervallues the Kings loſs, by ſaying, Page the 6th, <hi>that none can gueſs what thoſe Acts might leſſen from the Cuſtoms:</hi> Whereas the Computations are duly made there<g ref="char:EOLhyphen"/>of every year by the Comptroller of the Cuſtoms; by whoſe Certificates the Corn Debenters amounted in my time to more than ſixty thouſand pound a year, for the years 76 and 77. and what the loſs by the Prohi<g ref="char:EOLhyphen"/>bition hath amounted to, could not appear in my time: At laſt, he ends that Paragraph with an Argument to confute the Author of my Caſe, by which he has done me much more kindneſs than that Author did; for he ſays, <hi>it will appear the Cuſtoms never yielded ſo much as in my days;</hi> by which he acknowledges a better Management of that Revenue in my time, than before, and let who the Examiner pleaſes have the Honour of it, ſince his Majeſty has had the Profit.</p>
+            <p>His 7th Page is ſo full of falſehood and ignorance, that I know not of which there is moſt; for he charges me <hi>with hindring Money from coming in to the Exchequer which was lent on the fifth part of the Exciſe, and diverting it to other uſes,</hi> which is notoriouſly falſe; and he ſays Mr. <hi>BARTIE, or a Private Letter was the Voucher for the Commiſſioners of Exciſe placing and having allowed to their Account many Sums of Money which were
+<pb n="3" facs="tcp:95690:3" rendition="simple:additions"/>paid by my Private Direction:</hi> Which is not only untrue, but utterly impoſſi<g ref="char:EOLhyphen"/>ble; there being nothing leſs than a Tallie or Privy-Seal which can be ſuch a Voucher.</p>
+            <p>The next Charge this Examiner endeavours to lay againſt me, is a<g ref="char:EOLhyphen"/>bout the Poll Bill, and that <hi>becauſe ſome of the</hi> Eaſt-land <hi>Merchants were not paid for ſome Goods which were contracted for by the Comiſſioners of the Navy, beyond the Sum that Act amounted to.</hi>
+            </p>
+            <p>It is in this, as in moſt of the Particulars throughout his Book, both the Examiners misfortune and mine, that he knows ſo little of the matters he meddles with; for if he had known better, he would have given both me and himſelf far leſs trouble: For as an Exchequer man, he muſt have known, that the whole Bill brought in but two hundred fifty ſix thouſand two hundred twenty three pound, two ſhillings and four pence, to the Kings uſe; of which he Charges me with the receipt but of two hundred fifty two thouſand nine hundred pound in my time, and it was all Iſſued ac<g ref="char:EOLhyphen"/>cording to the Direction of the ſaid Act, to the Navy, Ordnance, and Forces: <hi>which himſelf in the laſt foregoing Page has ſaid could not be other<g ref="char:EOLhyphen"/>wiſe;</hi> ſo that he might have anſwered himſelf, why no care could be taken by me to reſerve mony for them out of that Act; and before my going out I had procured the Kings Warrant for making them Aſſign<g ref="char:EOLhyphen"/>ments upon the Revenue for their remaining Debt, but was removed be<g ref="char:EOLhyphen"/>fore the ſaid Aſſignment could be perfected; and had the Examiner ei<g ref="char:EOLhyphen"/>ther been privy to the proceedings of the Houſe of Commons, or that he would but have peruſed the Act it ſelf, he would have known, that the Parliament gave Credit by that Act for three hundred thouſand pound in Money, and an indefinite Credit for Goods and Stores beyond the ſaid three hundred thouſand pound; ſo as had the Act held out but to the Money-Credit given by it, the <hi>Eaſt-land</hi> Merchants had been long ſince paid the greateſt part of their Debt: and therefore the Reader will ſee, how unjuſtly I deſerve the Reflection made upon me in that parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>In the ſame Page <hi>he does againſt his will acknowledge the Improvements of the Kings Revenues in my time;</hi> only he has no mind to admit me a<g ref="char:EOLhyphen"/>ny ſhare in the doing it, which, as I have ſaid before, I am contented with, the Kings Service having been performed; and <hi>For the Caſe of</hi> Mr. <hi>Bret, &amp;c.</hi> it has been ſo lately Re-examined, that it has ſufficiently juſti<g ref="char:EOLhyphen"/>fied it ſelf; and I do further aver, that his Majeſty did by that Contract with Mr. <hi>Daſhwood</hi> and Partners, get neer fifty thouſand pound a year increaſe to his Revenue of Exciſe, more than ever any did offer by a cer<g ref="char:EOLhyphen"/>tain Farm, or than ever was made before of that Branch of the Re<g ref="char:EOLhyphen"/>venue.</p>
+            <p>For the Improvements in <hi>Ireland,</hi> he pretends to know little of them, becauſe he fears it might be to my advantage; for otherwiſe he ſeems through his whole Book to pretend to ſuch a general knowledge, as could be ignorant of nothing in this World.</p>
+            <p>In the 9th Page, he tells you moſt truly, <hi>that you are not always to ap<g ref="char:EOLhyphen"/>peal to the Weekly Certificates for proofs.</hi> In which I agree with him; for I have had out of the Exchequer ſome of thoſe Certificates, which have not been true, and that to the miſtake of ten or twelve thouſand pound in one Week; but in the ſame Page he takes great pains to ſhew, <hi>that I could not know what intereſt I paid, though I might know what I agreed for;</hi> which is very ridiculous, for there was no allowance made for in<g ref="char:EOLhyphen"/>tereſt of Mony, but upon an account of the particular ſums lent, the
+<pb n="4" facs="tcp:95690:4"/>times of lending, and days of Repayment ſtated and adjuſted by one of the Kings Auditors upon Oath, examined by the Chancellour of the Exchequer, allowed and ſign'd by the Lord Treaſurer and Chancel<g ref="char:EOLhyphen"/>lour of the Exchequer; and conſequently what Intereſt was paid, muſt needs be known both to my ſelf, the Chancellour of the Exchequer, and the Auditor, before whom the ſaid Account is ſtated; and whereas the Ex<g ref="char:EOLhyphen"/>aminer aſſerts, <hi>that nothing will be found in the Weekly Certificates of the payment of any ſuch Intereſt at all;</hi> it is ſo much the contrary, that in many of the Weekly Certificates it will appear, that ſuch Intereſt is therein accounted; and I dare be confident, there will not appear above eight <hi>per Cent.</hi> unleſs it be for ſome inconſiderable Sum or Time.</p>
+            <p>In the next Paragraph, Pages 9 and 10, he comes to what <hi>he calls the Foundation of all his Work,</hi> and ſays <hi>he will furniſh the Author of my Caſe with a Computation more particular than perhaps he deſires, and will pull off the Vail;</hi> which if he had done, he would have Corrected the Au<g ref="char:EOLhyphen"/>thor of that Caſe, by ſetting down a true Computation; as I would have done myſelf, if the ſaid Author had conſulted me before his Book had been Printed: But there are divers things I would have altered in that Book, had I been the Author of it, although I know not one mat<g ref="char:EOLhyphen"/>ter of Fact that is untrue in the whole Book, (except the ſaid Computati<g ref="char:EOLhyphen"/>on, which was to my diſadvantage) nor has this Examiner made appear that there is; and if I had been ſo friendleſs, as he ſuppoſes me, that no body would have writ that Book for me, I would at leaſt have been my own Friend ſo much, as to have ſet down the Sums in it to my own advantage where they had been true, and ſo ought this Examiner to have done, if he had been honeſt.</p>
+            <p>He laies hold of a miſtake of the Author of that <hi>State</hi> (for I cannot call it an untruth, becauſe it is a Sum leſs than the true one, and to the prejudice of him whoſe Caſe he Deſigns truly to repreſent) It is a Compu<g ref="char:EOLhyphen"/>tation the Author of the <hi>State</hi> makes by a Certificate of the Pells from <hi>Eaſter</hi> 73, to <hi>March</hi> 79, amounting to eight Millions, two hundred ſe<g ref="char:EOLhyphen"/>venty ſix thouſand ſeven hundred ſixty ſeven pounds; beſides Intereſt to the Goldſmiths, and other particulars, which makes it very uncer<g ref="char:EOLhyphen"/>tain; and beſides that, it commences from a time three Months before my entrance to the Treaſury, and is liable to the Examiner's Cavil, unleſs by his knowledge he would either have rectified it, or his Printer's mi<g ref="char:EOLhyphen"/>ſtake, who I rather believe has told the untruth on my ſide; for he has made it <hi>Eight millions, ſixty two hundred ſeventy ſix thouſand, ſeven hundred ſixty ſeven pounds;</hi> which makes fourteen Millions two hundred ſeventy ſix thouſand ſeven hundred ſixty ſeven pounds: But I ſuppoſe he means the firſt Sum of eight Millions, <hi>&amp;c.</hi> That he may the better diſ<g ref="char:EOLhyphen"/>guiſe what he there indeavours to have believed, which is, that the Reve<g ref="char:EOLhyphen"/>nue in five years and three quarters, <hi>viz.</hi> From <hi>Midſommer</hi> 73, to <hi>Lady-Day</hi> 79, amounted to the above Sum of eight Millions two hundred ſe<g ref="char:EOLhyphen"/>venty ſix thouſand ſeven hundred ſixty ſeven pound; whereas he cannot poſſibly be ſo ignorant, as not to know, that what has ariſen from the Revenue alone in that time, has not been near that Sum; and by Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Howard</hi>'s State thereof, for the year 75, (which is hereunto annexed) he tells you it amounted that year but to ſix hundred fifty ſix thouſand one hundred ſeventy two pound, clear to the Kings uſe.</p>
+            <p>The Sum alſo which the Author of the <hi>State</hi> calls Eight Millions two hundred ſeventy ſix thouſand ſeven hundred ſixty ſeven pounds (ac<g ref="char:EOLhyphen"/>counting from <hi>Eaſter</hi> 73, to <hi>Lady-day</hi> 79,) ought to be ten millions eight
+<pb n="5" facs="tcp:95690:4"/>hundred ſixty ſeven thouſand one hundred twenty ſix pound, (betwixt the 23d of <hi>June</hi> 73 and <hi>Lady-day</hi> 79.) He knows likewiſe amongſt the ſupplies which this Examiner tells you were given by Parliament, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Li.</cell>
+                  </row>
+                  <row>
+                     <cell>The 18 Months Tax amounting to —</cell>
+                     <cell>1238750</cell>
+                  </row>
+                  <row>
+                     <cell>The Tax for building the Thirty Ships —</cell>
+                     <cell>0584978</cell>
+                  </row>
+                  <row>
+                     <cell>On the fifth Part of the Exciſe —</cell>
+                     <cell>0200000</cell>
+                  </row>
+                  <row>
+                     <cell>The Poll Act —</cell>
+                     <cell>0252900</cell>
+                  </row>
+                  <row>
+                     <cell>The firſt Act for Disbanding the Army, and other uſes —</cell>
+                     <cell>0619388</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all</cell>
+                     <cell role="total">2896016</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That the two hundred thouſand pound, mentioned on the 5th Part of the Exciſe, is accounted double, being part of the ſix hundred and nineteen thouſand three hundred eighty eight pounds, (ſo groſly wil<g ref="char:EOLhyphen"/>ful or ignorant are the miſtakes in his Calculations) and one hundred fifty two thouſand ſeven hundred fifty ſeven pounds, part of the ſaid ſix hundred and nineteen thouſand three hundred eighty eight pounds, is not within the foreſaid ſum of ten millions eight hundred ſixty ſeven thouſand one hundred twenty ſix pounds; becauſe ſo much of the ſaid ſix hundred and nineteen thouſand three hundred eighty eight pound, was not come into the <hi>Exchequer</hi> in my time.</p>
+            <p>His next Head is about ſecret Service, where he talks of a <hi>compound of miſtakes,</hi> but ſhews not one but in himſelf; for to make proof of what he ſays, he affirms <hi>that my Penſion of eight thouſand pound</hi> per Ann <hi>as Lord Treaſurer, was never included in ſecret Service;</hi> whereas it was never paid otherwiſe until <hi>Michaelmas,</hi> 1676. and by a Warrant dated the 12th of <hi>July,</hi> 1676. which I procured to expreſſe the particular Service, nor in all my Lord <hi>Southampton</hi> and Lord <hi>Clifford</hi>'s time (and I think the Lords Commiſſioners) was it ever otherwiſe than by ſecret Service; ſo that (to uſe his own phraſe in that Paragraph) it will be ſeen to whom this inſtance is moſt unlucky.</p>
+            <p>Indeed he ſemes offended that the <hi>Exchequer</hi> does not know all the uſes to which Money is applyed, under the Head of Secret Service; which is an Impoſition that the Examiner (who ever he be) would be loth to have put upon himſelf in his own Expences, how regular ſoever thoſe may be.</p>
+            <p>For <hi>the ſum of Secret Service delivered in Parliament,</hi> I do not know when he means that delivery, unleſs it were at the time of my Impeach<g ref="char:EOLhyphen"/>ment, when by the Articles of that impeachment, I was charg'd with having laid out the ſum of two hundred thirty one thouſand ſix hundred and two pound, for Secret Service, in two years; which muſt then be meant from <hi>Chriſtmas</hi> 76. to the time of my ſaid Charge, which was the 23d of <hi>December</hi> 78. But as that would have appeared to have been a very wrong Computation which was then given to the Houſe of Com<g ref="char:EOLhyphen"/>mons, ſo it will appear by Sir <hi>Robert Howard</hi>'s Certificate, that the Ex<g ref="char:EOLhyphen"/>aminer is as much miſtaken in his Computation <hi>of two hundred fifty two thouſand four hundred ſixty ſeven pound, for Secret Service, in the ſpace of two years and three months,</hi> there being no ſuch ſum in that time; but I find two hundred fifty two thouſand four hundred ſixty ſeven pounds
+<pb n="6" facs="tcp:95690:5"/>to be the juſt ſum accounted under the Head of Secret Service in <hi>three compleat years, viz.</hi> from <hi>Lady-day</hi> 76. to <hi>Lady-day</hi> 79. which amounts but to eighty four thouſand one hundred fifty five pound thirteen ſhil<g ref="char:EOLhyphen"/>lings and four pence a year, and is a ſum I ſhould not have thought a man, expreſſing ſo much Service and Duty to his Majeſty, would have won<g ref="char:EOLhyphen"/>dered at, though it had all been laid out in the ſpace of three years without giving him or any body elſe an account of it; but had there been an opportunity for that account, I had ſhewed, and am at all times ready to ſhew and prove, with his Majeſties leave, that fifty ſeven thouſand ſe<g ref="char:EOLhyphen"/>ven hundred ſixty three pounds at leaſt of that ſum, hath been disburſt for publick uſes; and then the remainder of this pretended grievance has been at moſt but one hundred ninety four thouſand ſeven hundred and four pound in three whole years; which has been but at the rate of ſixty four thouſand nine hundred and one pound ſix ſhillings and eight pence a year.</p>
+            <p>After all theſe Computations and Proofs pretended to by the Exami<g ref="char:EOLhyphen"/>ner, he confeſſes <hi>Page</hi> the 13th, <hi>That no demonſtrative Argument is to be framed from the Particulars he has mentioned, but will therefore betake him to Generals for the ſure Proof of all:</hi> which I believe is the firſt time of ſuch an Undertaking, and ſhews ſufficiently how falſly this Examiner pretends to the knowledge of <hi>Exchequer</hi> Accounts.</p>
+            <p>When he comes to this <hi>plain Account of Generals,</hi> he ſays, <hi>he has a Co<g ref="char:EOLhyphen"/>py of a Paper dated the</hi> 10th <hi>of</hi> June 73. <hi>under Sir</hi> Philip Floyd<hi>'s hand,</hi> which would not paſs for a Proof in this Caſe, if it were true; but that I might know the truth of it, I writ to Sir <hi>Philip Floyd,</hi> and had this following anſwer from him; by which it appears both how much Sir <hi>Philip</hi> has been abuſed by the ſaid printed Paper, and how different a State was made up by Sir <hi>Robert Howard</hi> my then Secretary, the 21ſt of <hi>June,</hi> 73, which was but two days after my having the Staff.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Copy of Sir <hi>Philip Floyds</hi> Letter to the Earl of <hi>Danby</hi> the 18th of <hi>March, 1679/80.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I <hi>Have received the Honour of your Lordſhips Letter, of the</hi> 15th <hi>Inſtant, and in anſwer to it, I do hereby aſſure your Lordſhip, that I have at no time given any State of the Revenue to any Perſon, but to ſuch as from time to time have been my Superiours in the Treaſury; and as for this thing in par<g ref="char:EOLhyphen"/>ticular which is printed in a Phamphlet under the Title of</hi> An Examination of the Impartial State of the Caſe of the Earl of <hi>Danby, and called a Copy of the Condition of the Revenue as it was left by the late Lord Treaſurer</hi> Clif<g ref="char:EOLhyphen"/>ford, <hi>and ſaid to be procured under my hand, I do declare to your Lord<g ref="char:EOLhyphen"/>ſhip that my name is abuſed in it; and to convince your Lordſhip that ſuch a Copy could never come from me, give me leave to ſay, that I have Examined ſuch Papers as I have by me concerning the Revenue, when your Lordſhip re<g ref="char:EOLhyphen"/>ceived the Staff, and I find it to be falſe almoſt in every particular: As for Inſtance, I find the Cuſtoms were left charg'd with</hi> —245905 l. 19 s. 3 d. <hi>beſides the weekly charge for</hi> Tangier, <hi>
+                        <g ref="char:V">Ʋ</g>pon the Exciſe I find</hi> —201148 l. 13 s. 8 d. <hi>
+                        <g ref="char:V">Ʋ</g>pon the Hearth-Money</hi> —22318 l. 11 s. 0 d. <hi>The Law-Bill left quite uſeleſs, and which is far different from the Examiners printed
+<pb n="7" facs="tcp:95690:5"/>State. And then for the three laſt quarters of the Tax, they were not left clear neither, as the Examiner is pleaſed to ſay; For, the firſt quarter of thoſe three I find to have been charg'd with</hi> 21163 l. 6 s. 8 d. <hi>before your Lordſhips time, and of the whole of thoſe three quarters there came only five hundred ſixty five thouſand odd hundred pounds into the</hi> Exchequer.</p>
+                  <p>
+                     <hi>I could enlarge upon the errors and falſhood of this Pamphlet concerning the Revenue in many other particulars; but having as I humbly conceive, fully anſwered your Lordſhips Commands, in aſſuring you, and ſhewing to your Lordſhip, that no ſuch Copy as the Examiner hath Printed could come from me; I will give your Lordſhip no further trouble with any remarks of my own upon it; but take leave only to remember your Lordſhip of a Paper which I have ſeen in your Lordſhips hands of better Authority than any thing that I can ſay: Which is a State of the Revenue preſented to your Lordſhip, by Sir</hi> Ro<g ref="char:EOLhyphen"/>bert Howard, <hi>the</hi> 21ſt <hi>of</hi> June, 1673. <hi>which was two days after you enter<g ref="char:EOLhyphen"/>ed upon your Office, wherein having ſtated the Income of the Ordinary Reve<g ref="char:EOLhyphen"/>nue and the Expences for that year by way of Debtor and Creditor, he finds the Expence would exceed the Income by the Sum of</hi> 1163400 l. <hi>and there is no doubt but Sir</hi> Robert Howard, <hi>who was furniſh'd with all the means of making a true Calculation did take care to do ſo: And that in my humble opi<g ref="char:EOLhyphen"/>nion (my Lord) will be of conſiderable uſe to your Lordſhip, to ſhew the miſtakes of this Examiner. I beg your Lordſhips pardon for this long trouble; and am,</hi>
+                  </p>
+                  <closer>
+                     <salute>My Lord,</salute> 
+                     <signed>Your Lordſhips moſt obedient, and moſt Humble Servant, <hi>Philloyd,</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Having peruſed the ſaid State of the Revenue mentioned in Sir <hi>Philip Floyd</hi>'s Letter, which was given me by Sir <hi>Robert Howard,</hi> the 21ſt of <hi>June</hi> 73. and remains in my Cuſtody, I find it to agree exactly with Sir <hi>Philip</hi>'s Letter, both in the Calculation of the expence of the Year, 1673. to ex<g ref="char:EOLhyphen"/>ceed the Income of that year, by the Sum of one million one hundred ſixty three thouſand four hundred pound, and in the Sums which were left Charg'd upon the three great Branches of the Revenue by my Lord <hi>Clifford;</hi> nor could any Copy of the ſaid printed Paper come from his Lordſhip, becauſe there is not one half of it true: Beſides this Examiner is not only ignorant of things in the Treaſury, but he does not know the Officers of it at that time, for he mentions <hi>a Letter from Mr.</hi> Mounteney, <hi>dated the</hi> 10th of November 73, <hi>and ſays it was directed to Sir</hi> Robert Howard <hi>(then Secretary to the Treaſury)</hi> whereas Mr. <hi>Bartie</hi> was then my Secretary, and not Sir <hi>Robert Howard.</hi>
+            </p>
+            <p>The Examiner cloſes his report concerning the Treaſury, Pages 14 and 15, wherein he pretends to ſhew: Firſt, <hi>That the Revenue was left charged with leſs than three hundred thouſand pound (advance Money excepted) at the time of my Lord</hi> Cliffords <hi>leaving his Place. Secondly, that there was nine hundred forty two thouſand five hundred pound then left in Money. And Thirdly, that the ſaid Revenue was computed to be left charged with one million, four hundred eighty five thouſand five hundred and ſeventy pound, ſixteen ſhillings and four pence, at Lady-Day,</hi> 1672. I ſuppoſe he means
+<pb n="8" facs="tcp:95690:6"/>1679. when I was removed from the Treaſury: Although I could no more know he means that time by the Computations he has made, than I could by that year of our Lord which he has Printed.</p>
+            <p>The firſt and ſecond of theſe are proved from that Copy before menti<g ref="char:EOLhyphen"/>oned, pretended to be from Sir <hi>Phillip Floyd,</hi> to which Sir <hi>Philip</hi>'s anſwer has been ſeen, and conſequently the truth of <hi>his ſure proof:</hi> But that it may be truly known how the three great Branches alone were left charg'd by my Lord <hi>Clifford</hi>'s own Computation, it is therein ſet down, that,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>The Cuſtoms were then charg'd with —</cell>
+                     <cell>245905</cell>
+                     <cell>19</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>The Exciſe —</cell>
+                     <cell>201148</cell>
+                     <cell>13</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>The Hearth-Money —</cell>
+                     <cell>022318</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all</cell>
+                     <cell role="total">469373</cell>
+                     <cell role="total">03</cell>
+                     <cell role="total">11</cell>
+                  </row>
+               </table> beſides that the ſmaller Branches were left uſeleſs for the ſaid year: And in the ſame Computation (which I have in my Cuſtody) it is eſtimated that for the ſaid year of 1673 there could not be expected for the ſervice of that year from the aforeſaid three great Branches, any more than ſeven hundred forty ſix thouſand ſix hundred twenty nine pounds, and the Eſtabliſh<g ref="char:EOLhyphen"/>ment of the conſtant yearly expence (beſides the great Sums owing at that time to the Fleet and Army, then in being for the ſaid year) amount<g ref="char:EOLhyphen"/>ed to above one million three hundred thouſand pound <hi>per ann.</hi> And here I muſt have leave to obſerve, that had it not been for that Chargeable War againſt the <hi>Dutch,</hi> it muſt have been ſtrange that any conſiderable Charge ſhould have remained on the Revenue in the beginning of the year 73. which was ſo ſoon after a total Poſt-poning of the Kings Debts, and when the Credit was ſo broken, that through the whole year of 72 I believe there was not twenty thouſand pound borrowed on the Credit of the Revenue.</p>
+            <p>
+               <hi>From the ſame Copy of what he calls Sir</hi> Philip Floyd's <hi>Paper, and his ſure proof of all,</hi> is made his next Calculation; that there was <hi>nine hundred forty two thouſand five hundred pound left in Money:</hi> viz.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                  </row>
+                  <row>
+                     <cell>By the laſt 3 Quarters of the Tax —</cell>
+                     <cell>600000</cell>
+                  </row>
+                  <row>
+                     <cell>From the Advance of the Exciſe —</cell>
+                     <cell>150000</cell>
+                  </row>
+                  <row>
+                     <cell>From the French Money —</cell>
+                     <cell>112500</cell>
+                  </row>
+                  <row>
+                     <cell>Upon the 3 Quarters of the Subſidy —</cell>
+                     <cell>080000</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all</cell>
+                     <cell role="total">942500</cell>
+                  </row>
+               </table>
+            </p>
+            <p>As to the firſt of theſe ſums, (as I have ſaid already) the ſaid laſt three Quarters brought in clear to his Majeſties uſe, but about five hundred ſixty five thouſand four hundred ninety eight pound; which is about the ſum of one hundred eighty eight thouſand four hundred ninety nine pound, for each Quarter one with another; and the firſt of thoſe Quar<g ref="char:EOLhyphen"/>ters was charg'd with twenty one thouſand one hundred ſixty three pounds, and was not payable till the third of <hi>March</hi> following; which was full three Quarters of a year (wanting but ſixteen days) before I could expect the firſt Quarter; which would then be clear but one hun<g ref="char:EOLhyphen"/>dred
+<pb n="9" facs="tcp:95690:6"/>ſixty ſeven thouſand three hundred thirty ſix pound; and yet this Examiner ſpeaks with confidence <hi>the whole ſix hundred thouſand pound to be left in Money.</hi>
+            </p>
+            <p>The three laſt Sums, <hi>viz.</hi> the Advance, the <hi>French</hi> money, and Subſidy, amounting to three hundred forty two thouſand five hundred pound, he ſays, <hi>will be ready in</hi> October <hi>and</hi> November, <hi>for payment of the Fleet and Tards:</hi> Whereas the greateſt part of Advance Mo<g ref="char:EOLhyphen"/>ney goes always in Repayment of the former Advances, in Caſe of new Farmers, and is always continued by old Farmers; but no new Money advanced, unleſs there be an increaſe of Advance-money, as at that time was made of about thirty thouſand pound, which Sum could only be accounted applicable to the preſent ſervice.</p>
+            <p>For the <hi>French</hi> Money, I do not know what he means, unleſs it be a Sum of eighty five thouſand pound which I find placed to the Treaſurer of the Navy's Account, betwixt <hi>June</hi> 73 and <hi>December</hi> 74.</p>
+            <p>And for the eighty thouſand pound upon the three quarters of the Sub<g ref="char:EOLhyphen"/>ſidy, it is a Sum in the Clouds for any thing I know of it, having been all expended before my time, or if any thing did come in afterwards of that Tax, it muſt be ſome inconſiderable Arrears.</p>
+            <p>Thus has <hi>his Sure proof</hi> made out <hi>in Generals,</hi> what he confeſſes he could not Demonſtrate <hi>by Particulars:</hi> And I muſt further obſerve, that although the laſt three quarters of the eighteen Months Tax were not aſſigned by my Lord <hi>Clifford;</hi> yet much more than that Sum was then become due to the Fleet and Army then in being: And it is well known, and was owned in the Houſe of Commons by the then Speaker, that within the ſpace of fifteen Months from the time of my entrance to the Treaſury, I had paid above one Million five hundred thouſand pound to the Navy and Army alone; which was three Months before the laſt of the eighteen Months Tax was payable into the Exchequer; beſides the inconſiderableneſs of the Sum then come in by that Tax, and of the thirty thouſand pound Increaſe of Advance upon the Exciſe, and of the eighty five thouſand pound (if that be it he means by <hi>French</hi>-money) to ſo great a disburſement as was made to the Navy, and Army only, in the ſaid ſpace of 15 months.</p>
+            <p>For his third <hi>and laſt general proof, viz.</hi> What Charge was left upon the Revenue at <hi>Lady-Day,</hi> 1679. he ſays, Page the 15th. <hi>That to be as clear in this, as he was in the other, he has obtained likewiſe a Copy of the then State of the Revenue as it was preſented to the Lords Commiſſioners of the Treaſury:</hi> And which he ſays, is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Remains unpaid of Tallies charg'd on the Cuſtomes —</cell>
+                     <cell>435106</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Of Tallies charg'd on the Exciſe —</cell>
+                     <cell>550464</cell>
+                     <cell>15</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>To repay the Advance —</cell>
+                     <cell>250000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The charge on the Hearth-Duty by Tallies and the Advance Money —</cell>
+                     <cell>250000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total</cell>
+                     <cell role="total">1485570</cell>
+                     <cell role="total">16</cell>
+                     <cell role="total">04</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I have indeed been informed that a State of the Revenue was preſent<g ref="char:EOLhyphen"/>ed to the Lords Commiſſioners about that time, but I know nothing of it, nor was any thing of that kind ever required at my hands; but if any body have given them ſuch an one as is printed by the Examiner, it
+<pb n="10" facs="tcp:95690:7"/>has been a very malicious and willful miſtake to charge the Revenue to be under ſuch a Debt, becauſe there were ſuch Tallies upon it, at the time of my leaving the Treaſury, unleſs he would at the ſame time have ſhewed the uſes of thoſe Tallies: As firſt, how much of them was for Ser<g ref="char:EOLhyphen"/>vice forwards, and beyond <hi>Lady-Day</hi> 1679. Secondly, what was to be reckoned in Re-payment of ſome of the ſaid Tallies, which is to a very conſiderable Sum: And, Thirdly, how much the Advance-money alone on the Exciſe and Hearth Duty amounted to; which is not to be reckon<g ref="char:EOLhyphen"/>ed as Anticipation, but as Security for the Rent of thoſe great Branches of the Revenue, and which muſt be always done if his Majeſty were in the moſt plentiful Condition of his Exchequer: And it may be obſerved, that the Examiner himſelf does not Charge the one hundred and fifty thouſand pounds advance on the Exciſe, as any part of the three hundred thouſand pounds, which he ſays was the Charge left by my Lord <hi>Clifford;</hi> for he tells you <hi>the whole Charge upon the Exciſe was then but one hundred and ten thouſand pound.</hi>
+            </p>
+            <p>The ſaid Advances, <hi>&amp;c.</hi> therefore being deducted, there will be taken from the Examiner's Charge of 1485570 <hi>l.</hi> theſe ſums following, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Advance on the Exciſe —</cell>
+                     <cell>270000</cell>
+                  </row>
+                  <row>
+                     <cell>For Advance on the Hearth-Duty —</cell>
+                     <cell>150000</cell>
+                  </row>
+                  <row>
+                     <cell>To be diſcharg'd by Orders to the Commiſſioners of Exciſe on the firſt Act for disbanding the Ar<g ref="char:EOLhyphen"/>my, <hi>&amp;c.</hi> —</cell>
+                     <cell>101000</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies on the Surplus of the Exciſe for 30000 l. and 99000 l. being no charge upon the Rent, unleſs the Surplus fail, which is not likely —</cell>
+                     <cell>129000</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies which were to pay the Forces from <hi>Lady-day</hi> 79. forwards to the firſt of <hi>July,</hi> which was 97 days beyond my time; <hi>viz.</hi> by 29000 l. or thereabouts on the Exciſe, and a<g ref="char:EOLhyphen"/>bout 30588 l. on the Cuſtoms —</cell>
+                     <cell>059588</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies on the Cuſtoms made uſe of to carry on the Service of the Navy and Ordnance beyond the ſaid <hi>Lady-day,</hi> 1679. —</cell>
+                     <cell>035000</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies ſtruck for Pentions upon the two laſt Quarters of the Exciſe, <hi>viz. Chriſtmas</hi> 78. and <hi>Lady-day</hi> 79. for payment of which, Money was left in the hands of the Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe about —</cell>
+                     <cell>033000</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies upon the Cuſtoms reſtored for Tyn, which was depoſited in Mr. <hi>Kent</hi>'s hands —</cell>
+                     <cell>015000</cell>
+                  </row>
+                  <row>
+                     <cell>More by Tallies on the Cuſtoms, accounted by the Examiner to be unpaid to Mr. <hi>Montague,</hi> which were paid in my time —</cell>
+                     <cell>002342</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total —</cell>
+                     <cell role="total">794930</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And then the Charge which ought truly to be ſaid remaining upon the three great Branches (as an anticipation of the Revenue) at <hi>Lady-day</hi> 1679, ſtands thus upon each Branch, as near as I am able to com<g ref="char:EOLhyphen"/>pute: <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:95690:7"/>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>By Tallies on the Cuſtoms —</cell>
+                     <cell>352176</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>By Tallies on the Exciſe —</cell>
+                     <cell>238464</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>By Tallies on the Hearth-Duty —</cell>
+                     <cell>100000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total—</cell>
+                     <cell role="total">690640</cell>
+                     <cell role="total">0</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The ſaid three Branches of the Revenue were left charg'd (as hath been already ſaid) by the Lord <hi>Clifford;</hi> as follows.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>The Cuſtoms —</cell>
+                     <cell>245905</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The Exciſe —</cell>
+                     <cell>201148</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>The Hearth-Duty —</cell>
+                     <cell>022318</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total—</cell>
+                     <cell role="total">469371</cell>
+                     <cell role="total">0</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>So as the Charge upon the Cuſtoms is increas'd in 5 years and 3 quarters, <hi>viz.</hi> from <hi>Mid<g ref="char:EOLhyphen"/>ſommer</hi> 73, to <hi>Lady-day</hi> 79, by the ſum of</cell>
+                     <cell>106271</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>And upon the Exciſe in the ſaid time —</cell>
+                     <cell>037316</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>And upon the Hearth-Duty in the ſaid time —</cell>
+                     <cell>077682</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all —</cell>
+                     <cell role="total">221269</cell>
+                     <cell role="total">0</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>As by this it appears that the Anticipations upon the Revenue in five years and three quarters are increaſed but — 221269 <hi>l.</hi> ſo I muſt ob<g ref="char:EOLhyphen"/>ſerve, that there was — 140000 <hi>l.</hi> paid to the Goldſmiths for two years Intereſt of their Debt, by virtue of a Grant under the Great Seal, dated the 23d of <hi>July,</hi> 1674, and — 178473 <hi>l.</hi> more to them and others by ſeveral Grants of Perpetual Intereſt betwixt <hi>Chriſtmas</hi> 1676, and <hi>Lady-day,</hi> 1679, which together amounts to the ſum of — 318473 <hi>l.</hi> and is truly a payment of ſo much of the Kings Debt, although it has not been called an Anticipation of the Revenue ſince the ſtop of the Exche<g ref="char:EOLhyphen"/>quer. The ſaid — 318473 <hi>l.</hi> having therefore diſcharged ſo much of the Kings Debt in my time, although what are called <hi>the preſent An<g ref="char:EOLhyphen"/>ticipations</hi> be increaſed by the ſum of — 221269 <hi>l.</hi> yet the Kings Debt is really leſs than it was at my entrance to the Treaſury the 19th of <hi>June</hi> 73. by the ſum of — 97204 <hi>l.</hi>
+            </p>
+            <p>Notwithſtanding that no Aid was given by Parliament in the foreſaid time of five years and three quarters, but what was appropriated to par<g ref="char:EOLhyphen"/>ticular uſes by the Parliament; and notwithſtanding the Charge of the War with <hi>Algiers,</hi> and the Rebellion in <hi>Virginia,</hi> which were both great ſtops to Trade and very great Expences to his Majeſty. The Exami<g ref="char:EOLhyphen"/>ner indeed undervalues thoſe Expences, as he does every thing to which he can give no better anſwers than he has done to that in <hi>pag.</hi> 6. wherein he ſays, <hi>That the Rebellion in</hi> Virginia <hi>ceaſed quickly, and while both that Rebellion and the War with</hi> Algiers <hi>hapned, if there had been a conſiderable Fleet for Summer and Winter Guards kept out beſides, it had been a matter of ſome conſideration.</hi> So that where he cannot poſſibly deny the Facts, he en<g ref="char:EOLhyphen"/>deavours to blemiſh them by ſomething elſe: But in this inſtance that will not ſerve his turn, the Summer and Winter Guards having been as
+<pb n="12" facs="tcp:95690:8"/>great as the need was then for them, and the Merchants will be the beſt Judges how their Trade was then ſecured, as well as how that War was ſupported againſt the <hi>Algerines.</hi>
+            </p>
+            <p>With this ſtate of the Revenue at <hi>Lady-day</hi> 79. <hi>viz.</hi> that the Debt then upon it amounted to one million four hundred eighty five thou<g ref="char:EOLhyphen"/>ſand five hundred ſeventy pound ſixteen ſhillings and four pence, the Examiner ends his Computations concerning the Treaſury; the truth of which will be beſt decided by the Records themſelves: But before he cloſes that part of his Book, he thinks fit to leave his Civil Remarks to the Reader about me, and <hi>threatens me with Ballads,</hi> which by his ſtile it looks as if he could perform much better than matters of Account.</p>
+            <p>Having gone through the matters of Fact mentioned in this firſt part of the Examiners Paper, I ſhould take notice of ſome of his ſuggeſtions before I proceed to the other part of it; but thoſe being only Obſerva<g ref="char:EOLhyphen"/>tions of his own, who has dealt ſo unfaithfully in things which are vi<g ref="char:EOLhyphen"/>ſible upon Record, I think it will not be neceſſary to ſay any thing to them; only I will inform the Reader, that whereas this Examiner ſays, that <hi>the Office of Treaſurer of the Navy depends upon the Lord Treaſurer or Commiſſioners of the Treaſury, for money to pay:</hi> yet thoſe Supplies I re<g ref="char:EOLhyphen"/>ceived whilſt I was Treaſurer of the Navy were two parts of three in Orders and Aſſignments, and left upon me to borrow Money as I could upon them; inſomuch that moſt of my time and care was then employ<g ref="char:EOLhyphen"/>ed in that work; although I made it far more eaſie afterwards to the pre<g ref="char:EOLhyphen"/>ſent Treaſurer of the Navy, while I remained Lord Treaſurer.</p>
+            <p>I muſt likewiſe deſire the Reader to obſerve, that although this Exa<g ref="char:EOLhyphen"/>miner inſinuates, <hi>pag.</hi> 3. <hi>that it would puzzle the Author of the State to name any perſons who were of opinion that the Kings condition was in great ſtraits for money in the firſt ſix Months after my being Treaſurer;</hi> yet that is not only true, but is teſtified to be ſo, by that ſtate of the Revenue drawn up by Sir <hi>Robert Howard,</hi> the 21ſt. of <hi>June</hi> 73, which is men<g ref="char:EOLhyphen"/>tioned in Sir <hi>Philip Floyd</hi>'s Letter; for he thereby makes appear (as hath been ſaid already) that the Expence of that year (which in the Eſtabliſh<g ref="char:EOLhyphen"/>ments is always accounted to commence in <hi>January</hi>) does exceed the In<g ref="char:EOLhyphen"/>come of the ſaid year by the ſum of one million one hundred ſixty three thouſand four hundred pounds.</p>
+            <p>Now beſides that State of Sir <hi>Robert Howard</hi>'s (my then Secretary), I am confident the King and his Royal Highneſs will both remember the ſtraits of the Treaſury to be then ſuch, and the difficulty ſo great to get money for paying off the Fleet at the end of the War, that it was doubt<g ref="char:EOLhyphen"/>ed whether ſome Ships muſt not have been ſent out of the River to Sea again, only for want of Money to pay them; and although means was uſed to diſcharge the Seamen of that Fleet without Tickets, yet moſt of the Money was borrowed which was raiſed for that purpoſe, and not without great hardſhip, as the credit of the <hi>Exchequer</hi> ſtood at that time.</p>
+            <p>I know his Majeſty will alſo remember, that in <hi>March</hi> 1675 a ſtate of his Revenue was delivered to himſelf from Sir <hi>Robert Howard,</hi> which ſtate is remaining in my cuſtody (a Copy whereof is hereunto annexed) wherein Sir <hi>Robert</hi> ſets forth to his Majeſty, that his Revenue was then in ſo ill a condition, that it could afford him clear but ſix hundred fifty ſix thouſand one hundred ſeventy two pound that year; inſomuch that it was thereupon propoſed by him to help his Majeſty to eight thouſand pound a Week in aid of his Revenue for his ſubſiſtance, and upon a con<g ref="char:EOLhyphen"/>dition to have all the three great Branches put into the hands of ſuch
+<pb n="13" facs="tcp:95690:8" rendition="simple:additions"/>Undertakers as ſhould be named to his Majeſty. In ſo ſtrait a conditi<g ref="char:EOLhyphen"/>on was the Exchequer underſtood to be ſo many years ago, by thoſe who certainly ought to know the Condition of it much better than the Exami<g ref="char:EOLhyphen"/>ner; and therefore it puzzles no body but himſelf, to name perſons who were of that opinion.</p>
+            <p>
+               <table>
+                  <head>A Copy of the Paper delivered to his Majeſty from Sir <hi>Robert Howard,</hi> the <hi>5th</hi> of <hi>March, 1675.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">ob.</cell>
+                  </row>
+                  <row>
+                     <cell>The Sum that ſeems the foundation and meaſure from whence the Suſpentions are made, is —</cell>
+                     <cell>1351968</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Sum remaining after the Su<g ref="char:EOLhyphen"/>ſpention made, is, —</cell>
+                     <cell>1175315</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Sum ſuſpended, is, —</cell>
+                     <cell>0176653</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The laſt years expences amounted to —</cell>
+                     <cell>1841931</cell>
+                     <cell>18</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Out of which the Navy had —</cell>
+                     <cell>0599320</cell>
+                     <cell>04</cell>
+                     <cell>11</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>Spent the laſt year beſides what the Na<g ref="char:EOLhyphen"/>vy had —</cell>
+                     <cell>1242611</cell>
+                     <cell>13</cell>
+                     <cell>02</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>The Sum of Expence after the Suſpenti<g ref="char:EOLhyphen"/>ons made for a following year, is —</cell>
+                     <cell>1175315</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Income for the following Year to diſcharge the Expence of 1175315 l. 1 s. 6 d. may ariſe from theſe Branches.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">li.</cell>
+                     <cell role="label">Charge</cell>
+                     <cell role="label">li.</cell>
+                  </row>
+                  <row>
+                     <cell>Cuſtoms —</cell>
+                     <cell>600000</cell>
+                     <cell> </cell>
+                     <cell>100000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <note n="†">The reſt of the Ex<g ref="char:EOLhyphen"/>ciſe is charged.</note>Exciſe by the moi<g ref="char:EOLhyphen"/>ty of Pentions —</cell>
+                     <cell>050000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Firſt Fruits &amp; 10ths</cell>
+                     <cell>016000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Law-Duty —</cell>
+                     <cell>015000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Small Branches —</cell>
+                     <cell>020000</cell>
+                     <cell> </cell>
+                     <cell>010000</cell>
+                  </row>
+                  <row>
+                     <cell>Hearth-Duty —</cell>
+                     <cell>150000</cell>
+                     <cell> </cell>
+                     <cell>082828</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Toto</cell>
+                     <cell role="total">851000</cell>
+                     <cell role="total">Toto</cell>
+                     <cell role="total">194828</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>The clear Income remaining, is —</cell>
+                     <cell>0656172</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Income ſhort of the proportioned Expence, by —</cell>
+                     <cell>0519143</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>He proceeds, <hi>page</hi> 16, to Affairs of State, in anſwer to which I ſhall trouble my ſelf no farther, than to ſhew his falſe Quotations of my Letter of the 25th of <hi>March,</hi> 1678. and of the Book called <hi>The State of my Caſe</hi> (as to ſo much therein as concerns that Letter) leaving the malicious Inferences and Obſervations through this Part as well as the reſt of his Pamphlet, to ſuch as are more ingenuous, and more knowing in Foreign Buſineſs, than I perceive the Examiner is; of which this one Inſtance may ſuffice, <hi>Of his Belief that the French Intereſt was promoted by the Mar<g ref="char:EOLhyphen"/>riage
+<pb n="14" facs="tcp:95690:9"/>of the Lady</hi> Mary <hi>to the Prince of</hi> Orange.</p>
+            <p>Beſides his frequent applying of things to me which are not only un<g ref="char:EOLhyphen"/>true, but not ſo applyed by the Author of that <hi>State,</hi> he takes the liberty to affirm, that ſome things are in my Letter of the 25th of <hi>March,</hi> which are not in it, and that they are ſaid to be ſo by the ſaid Author of the <hi>State,</hi> although there be not ſuch a word in his Book; and he makes one of the ſaid falſe aſſertions a principal foundation not only of accuſing me, but of aſperſing the King to the greateſt degree imaginable, whilſt he would be thought to ſhew him as much Duty as I think he has done Con<g ref="char:EOLhyphen"/>tempt, <hi>which is a Crime he truly cenſures that no guilt but Treaſon can exceed.</hi>
+            </p>
+            <p>The ſaid Aſſertion upon which he builds ſo many falſe Inferences, is in <hi>Page</hi> the 25th, where he ſays, <hi>'Tis fit to obſerve in that Letter</hi> (meaning the foreſaid Letter of the 25th of <hi>March</hi>) <hi>that the King was ſufficiently in<g ref="char:EOLhyphen"/>formed that the</hi> French <hi>deſired Peace upon the Terms ſent by the Secretary;</hi> whereas it is moſt plain in that Letter, that the Kings Information (which was by Mr. <hi>Godolphin</hi>) was, that the <hi>Confederates</hi> deſired Peace up<g ref="char:EOLhyphen"/>on the Terms ſent by the Secretary: And in the ſame Letter it is ſaid, <hi>to prevent the Kings ſending into</hi> Holland <hi>again</hi> (<hi>before he knows the mind of</hi> France) <hi>I am commanded by his Majeſty, &amp;c.</hi> and, but that the Examiner hath no more regard for Senſe, than he has for Truth, it muſt have been as apparent Nonſenſe to him, as it is to all other Men, to have ſent in<g ref="char:EOLhyphen"/>to <hi>France</hi> to know what he pretends was known concerning that King already.</p>
+            <p>In the 26th <hi>Page</hi> he ſays again, <hi>Sure the Author of the State forgets that but a little before he ſays, this Lord</hi> (meaning me) <hi>aſſures him that they were ſufficiently informed</hi> the French <hi>deſired Peace upon thoſe Propoſitions:</hi> And again, <hi>Page</hi> the 27th, <hi>That ſure he cannot mean the Propoſals that he ſays were received from the</hi> Confederates, <hi>for thoſe he was informed were deſired by</hi> the French.</p>
+            <p>Now from ſo many Repetitions of things, of which there is not one word, neither in the Letter, nor <hi>State of the Caſe,</hi> and that both thoſe have been ſo long printed, that every Man has had the opportunity of ſeeing this Falſhood, I doubt not but it will eaſily be concluded, what belief ought to be given to any thing he has ſaid, which may be either doubtful in the Proof, or obſcure in the meaning, to thoſe who are not particularly knowing to the Matters this Examiner has taken upon him to meddle with.</p>
+            <p>From theſe <hi>ſure Aſſertions,</hi> he does juſt as he did from his <hi>ſure Proofs</hi> in reckoning, draw divers as good Concluſions; and leſt he ſhould omit any occaſion of ſhewing that great Duty and Reſpect he profeſſes to his Ma<g ref="char:EOLhyphen"/>jeſty, he takes care in <hi>Page</hi> 26. to make a particular exception againſt the Author of the <hi>State,</hi> for having juſtified the Kings honour in the 11th <hi>Page</hi> of that <hi>Stated Caſe,</hi> by making appear that the King could have no deſign of getting the French Money for the purpoſes ſuggeſted a<g ref="char:EOLhyphen"/>gainſt the Earl of <hi>Danby;</hi> for the Examiner, in the ſame <hi>Page</hi> 26, has laboured extreamly to have that Argument of the Author's of the <hi>State</hi> to be taken for a very weak and falſe one, which vindicates the King ſo fully from ſo foul an Aſperſion.</p>
+            <p>He then proceeds to that part of the Letter which ſays, That in Caſe the Conditions of the Peace ſhall be accepted, the King expects to have ſix millions of Livers yearly for three years, <hi>&amp;c.</hi> but ſays, <hi>that before he enters upon that Paragraph, he muſt ſeparate the King from wrong or diſhonour,</hi> and Explains that ſeparation, Pag. the 29th, <hi>with
+<pb n="15" facs="tcp:95690:9"/>having ſeparated the King from the Concern of that matter.</hi> I confeſs he had need to ſay ſo, becauſe he ſays in the next, page 30. <hi>That it was a project to let a Leaſe of Parliaments for three yeers;</hi> but whether he has done what he pretended for the Kings Honour, I muſt leave the Reader to Judge; when, if I durſt have ſaid in my Letter, that the King expects ſix millions, <hi>&amp;c.</hi> without the Kings order for ſaying ſo; yet certainly it could not have been in my power alone, <hi>to have Leaſed out Parliaments,</hi> and as he ſays preſently after <hi>to have renewed thoſe Leaſes;</hi> ſo that how it is poſſible to Render a King leſs, or how this imputation can be deſign<g ref="char:EOLhyphen"/>ed againſt any body but the King himſelf, (although he would pretend ſome cover by doing it through my ſides) I cannot imagine, nor is it poſ<g ref="char:EOLhyphen"/>ſible to be underſtood otherwiſe.</p>
+            <p>I confeſs he ſeems to mittigate this Crime a little, by the only modeſt expreſſion he has ſhewed through his whole Book, which is in a Para<g ref="char:EOLhyphen"/>graph, page 24. and which he would fain have proved by a Syllogiſm, but finding the firſt part of it would not hold good, he ſays very modeſt<g ref="char:EOLhyphen"/>ly thus.</p>
+            <p>
+               <hi>If this be a good Conſequence, that to accept</hi> French <hi>Money, is to enſlave the Nation; I hope it follows, the Sum of ſix millions of Livers,</hi> &amp;c. <hi>was for the ſame purpoſe;</hi> but himſelf acknowledges the conſequence not to be good; for he did not think the one hundred and twelve thouſand five hundred pounds, which he ſays was left in <hi>French</hi> money, was for that purpoſe; nor have we found many great Sums which former Kings have received from that Nation to have been ſo applyed or intended; and he cannot deny but his Majeſty might have had great Sums from them if he pleaſed, which he has refuſed, and refuſed only becauſe he would con<g ref="char:EOLhyphen"/>fent to no diſadvantagious Terms of Peace for the Confederates; nor at the laſt did his Majeſty ever conſent to thoſe Terms upon which the preſent Peace was made, but on the contrary, the loweſt terms his Ma<g ref="char:EOLhyphen"/>jeſty did ever agree to propoſe to the <hi>French</hi> King were to have had di<g ref="char:EOLhyphen"/>vers more Towns reſtored by him, both to the Emperour and <hi>Spain,</hi> than are reſtored by the ſaid Peace; and demanded an intire Reſtitution of the Duke of <hi>Lorrain</hi> to that Dukedom, as may be ſeen by thoſe very Propo<g ref="char:EOLhyphen"/>ſals, which were then ſent to Mr. <hi>Montague</hi> by Secretary <hi>Coventry,</hi> and without which his Majeſty would not hearken to any offers of their Mo<g ref="char:EOLhyphen"/>ney, nor (as is ſaid in the ſaid Letter) would he ſuffer it to be mentioned by his Ambaſſador; nay ſo much has his Majeſty been injured in this matter, that he needed not have wanted that Money which he ſo totally rejected, if he would but have given his conſent to the terms upon which the Peace was at laſt concluded at <hi>Nimiguen.</hi>
+            </p>
+            <p>He follows that Charge of <hi>Leaſing Parliaments,</hi> within two or three Pa<g ref="char:EOLhyphen"/>ragraphs, with <hi>laying Contradictions to the Kings Charge,</hi> but would impoſe that alſo upon the Author of the <hi>State,</hi> ſaying, <hi>ſure though he has been very bold with the King, yet he would not make him own Contradictions at the ſame time;</hi> and I do not find the ſaid Author to have ſaid one word like it, though this Examiner hath done ſo with great freedom.</p>
+            <p>There is an Explanation in Print of my ſaid Letter of the 25th of <hi>March</hi> to Mr. <hi>Montague,</hi> together with two of his Letters, which will ſhew the cauſe why the Money-part was kept ſecret from the Secreta<g ref="char:EOLhyphen"/>ries, <hi>&amp;c.</hi> Mr. <hi>Montague</hi> having both undertaken to get the King Money, and having prayed the King in a Letter to himſelf, that it might be kept ſecret from all men but me, who never ſought that truſt at his hands.</p>
+            <p>
+               <pb n="16" facs="tcp:95690:10" rendition="simple:additions"/>I will therefore leave the reſt of the Letter to that Printed <hi>Explana<g ref="char:EOLhyphen"/>tion,</hi> and ſhall only obſerve two things more about it, which are the cloſe of the Examiner's Diſcourſe upon that ſubject, <hi>pag.</hi> 32. One is the blame he lays upon me for affirming in a Speech in the Houſe of Lords, <hi>that I could produce the Kings hand for the Letters made uſe of againſt me;</hi> to which I ſhall only anſwer, I had the Kings leave to do ſo, as well as his Authority for what I writ.</p>
+            <p>The other is an Expreſſion of the Examiners, in the ſame Page, in an<g ref="char:EOLhyphen"/>ſwer to a Clauſe of the Author's of the <hi>State</hi> upon the ſaid Letter; <hi>viz. Sure there are few Maſters that would expect obedience from their Servants in unlawful things, and the Servants could leſs expect protection unleſs their Maſters were above the Law. The great Maſter of the Nation can give no more protection, nor require more obedience, than the Laws of God and Man allow.</hi>
+            </p>
+            <p>Now what does this imply (being ſaid upon this occaſion) leſs than charging the King with Commanding an unlawful thing, if he did Com<g ref="char:EOLhyphen"/>mand the writing of the ſaid Letter, (which his Majeſty himſelf has own<g ref="char:EOLhyphen"/>ed publickly;) and me for obeying his Majeſties Commands in what the Examiner calls unlawful?</p>
+            <p>To this I muſt anſwer, That I durſt not take upon me ſo eaſily as this Examiner does, to judge whether that were unlawful, which the King thinks to be lawful; although it had been in a more doubtful matter: But when the ſubject matter is about Peace and War, the Examiner him<g ref="char:EOLhyphen"/>ſelf acknowledges, <hi>pag.</hi> 31. <hi>that there is no queſtion but the King may treat of Peace even in War declared;</hi> and yet in <hi>pag.</hi> 32. would inſinuate that a Letter of that nature, and by the Kings Command, and before War declared, ſhould be underſtood to be <hi>about an unlawful matter;</hi> for other<g ref="char:EOLhyphen"/>wiſe by the Examiner's own Doctrine the King's Commands on that ſub<g ref="char:EOLhyphen"/>ject were legal, and my obedience no Crime, but did deſerve Protection.</p>
+            <p>When he has done with the Affairs of State, he is pleaſed <hi>to agree the Accuſations about Sir</hi> Edmundbury Godfrey <hi>to be Libells againſt me, and that to draw arguments of guilt from relying upon the Kings Pardon, would rather ſhew a deſire to find a Crime than prove it:</hi> But for the King's part, how valid or good his Pardon is, his continued duty and reſpect to his Majeſty makes him forbear to ſpeak his opinion; and I perceive alſo he takes it to be of ſuch weight if he ſhould, that <hi>he fears it might too much Anticipate a Parliaments Judgment,</hi> and upon the whole, he concludes (and I agree with him in that) that if he has made appear to be true, what he has ſaid againſt me, my Pardon was certainly my beſt defence; but be<g ref="char:EOLhyphen"/>ing ſo apparently contrary to truth, not only concerning me, but the King himſelf; I am ſure he needs a Pardon much more than he deſerves one, as I believe he is ſenſible, becauſe he takes the ſafeſt courſe of all, which is to diſguiſe himſelf, as well as he has done Truth: And if the Examiner was any of my Proſecuters, he cannot deny <hi>but that malice has had too great a ſhare at leaſt in his part of my Proſecution.</hi>
+            </p>
+            <closer>
+               <signed>DANBY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95690:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
